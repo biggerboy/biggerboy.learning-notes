@@ -1,15 +1,17 @@
 # learning-notes
 学习笔记、知识点整理。
 
-[redis](redis)
+# 目录
 
-[linux](linux)
+## <u>[redis](redis)</u>
 
-[git](git)
+## <u>[linux](linux)</u>
 
-[java](java)
+## <u>[git](git)</u>
 
-[mysql](mysql)
+## <u>[java](java)</u>
 
-[jenkins](jenkins)
+## <u>[mysql](mysql)</u>
+
+## <u>[jenkins](jenkins)</u>
 
